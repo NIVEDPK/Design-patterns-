@@ -1,4 +1,4 @@
-package singleton.lazy;
+package creational.singleton.lazy;
 
 public class SingletonLazy {
 	

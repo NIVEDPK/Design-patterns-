@@ -1,6 +1,6 @@
-package singleton.lazy;
+package creational.singleton.lazy;
 
-import singleton.Static.SingletonStatic;
+import creational.singleton.Static.SingletonStatic;
 
 public class DemoLazy {
 

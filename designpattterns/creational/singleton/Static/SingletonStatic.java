@@ -1,4 +1,4 @@
-package singleton.Static;
+package creational.singleton.Static;
 
 public class SingletonStatic {
 	
